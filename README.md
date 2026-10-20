@@ -1,4 +1,4 @@
-# Fredrick Kimutai | Aspiring Network Engineer
+# Fredrick Kimutai |Networking
 
 **Final-year Computing & IT student at CCT College Dublin, building and documenting real network labs.**
 AWS Certified Cloud Practitioner | CCNA in progress | Dublin, Ireland
