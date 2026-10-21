@@ -1,7 +1,5 @@
 # Fredrick Kimutai |Networking
 
-**Final-year Computing & IT student at CCT College Dublin, building and documenting real network labs.**
-AWS Certified Cloud Practitioner | CCNA in progress | Dublin, Ireland
 
 I design, cable, configure and break networks on real hardware, then document how I fixed them. My home lab runs on a **MikroTik hAP ac³**, a **Cisco Catalyst 3560G** and an **HP ProDesk G4 running Proxmox VE**, alongside Packet Tracer and EVE-NG for larger topologies.
 
