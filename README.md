@@ -3,7 +3,7 @@
 
 I design, cable, configure and break networks on real hardware, then document how I fixed them. My home lab runs on a **MikroTik hAP ac³**, a **Cisco Catalyst 3560G** and an **HP ProDesk G4 running Proxmox VE**, alongside Packet Tracer and EVE-NG for larger topologies.
 
-> Looking for **Network Technician**, **Data Centre Technician**, **Infrastructure** and **IT Support** internships and associate roles in Ireland.
+> Looking for **Network Technician**, **Data Centre Technician**, **Infrastructure** and **IT Support**  and Network  associate roles in Ireland.
 
 ## 🧭 My Lab Network
 
